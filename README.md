@@ -9,7 +9,7 @@ This website was built to present my professional background, skills, and projec
 
 ### 🖥️ Home / About Section
 
-![About Screenshot](./assets/screenshots/about.jpeg)
+![About Screenshot](\src\assets\img\about.jpg)
 
 ---
 
