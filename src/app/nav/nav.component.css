@@ -1,0 +1,31 @@
+.app-nav {
+  background-color: #00000000;
+  padding: 8px 24px;
+}
+
+.app-navlist {
+  list-style: none;
+  display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.app-navitem a {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-size: 0.95rem;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+
+.app-navitem a:hover {
+  background-color: #424242;
+}
+
+.app-navitem--active a {
+  background-color: #f5f5f5;
+  color: #212121;
+  font-weight: 600;
+}

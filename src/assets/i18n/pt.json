@@ -1,0 +1,17 @@
+{
+  "ABOUT": {
+    "TITLE": "Sobre Mim",
+    "PARAGRAPH1": "... Olá! Sou o Fernando Rerong, formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e desenvolvimento de software.",
+    "PARAGRAPH2":"Tenho experiência em suporte técnico e sustentação de sistemas, e atualmente estou direcionando minha carreira para a área de desenvolvimento, atuando tanto em Back-End quanto em Front-End.",
+    "PARAGRAPH3":"Possuo conhecimentos em Node.js, Apex, Java, C#, .NET, Python, React, Angular, LWC e SQL, além de interesse em trabalhar com nuvens Salesforce e AWS.",
+    "PARAGRAPH4":"Busco constantemente aprimorar minhas habilidades e contribuir para a construção de novos projetos, a sustentação de sistemas em produção e a implementação de melhorias que gerem valor ao negócio.",
+    "PARAGRAPH5":"Estou sempre aberto a novos desafios e oportunidades de aprendizado dentro do universo da tecnologia.",
+    "PARAGRAPH6":"📩 Sinta-se à vontade para entrar em contato comigo pela aba de contato"
+  },
+  "HEADER": {
+    "HOME": "INÍCIO",
+    "PROJECTS": "PROJETOS",
+    "CONTACT": "CONTATO"
+  },
+  "HEADING": "Desenvolvedor Front-End"
+}

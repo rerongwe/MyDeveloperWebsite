@@ -1,0 +1,17 @@
+{
+  "ABOUT": {
+    "TITLE": "About me",
+    "PARAGRAPH1": "... Hello! I'm Fernando Rerong, a graduate in Systems Analysis and Development and someone who is truly passionate about technology and software development.",
+    "PARAGRAPH2": "I have experience in technical support and system maintenance, and I’m currently steering my career toward the development field, working in both Back-End and Front-End.",
+    "PARAGRAPH3": "I have knowledge in Node.js, Apex, Java, C#, .NET, Python, React, Angular, LWC, and SQL, as well as an interest in working with Salesforce and AWS cloud platforms.",
+    "PARAGRAPH4": "I’m constantly looking to improve my skills and contribute to building new projects, maintaining production systems, and implementing enhancements that deliver real business value.",
+    "PARAGRAPH5": "I'm always open to new challenges and learning opportunities in the world of technology.",
+    "PARAGRAPH6": "📩 Feel free to reach out to me through the contact section."
+  },
+  "HEADER": {
+    "HOME": "HOME",
+    "PROJECTS": "PROJECTS",
+    "CONTACT": "CONTACT"
+  },
+  "HEADING": "Front-End Developer"
+}
