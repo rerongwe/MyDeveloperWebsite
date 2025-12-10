@@ -1,0 +1,34 @@
+.footer {
+  width: 100%;
+  padding: 20px 0;
+  background: #050b1a;
+  margin-top: 40px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.footer-content {
+  display: flex;
+  gap: 24px;
+}
+
+.footer-icon img {
+  width: 32px;
+  height: 32px;
+  transition: 0.2s ease;
+}
+
+.footer-icon img:hover {
+  transform: scale(1.1);
+  filter: brightness(1);
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #e0e0e0;
+  opacity: 0.7;
+  user-select: none;
+}

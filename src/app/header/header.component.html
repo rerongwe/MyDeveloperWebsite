@@ -1,19 +1,17 @@
 http://localhost:4200/
 <header class="app-header">
   <div class="app-headerlogo">
-    <span class="app-headerbrand">{{"HEADING" | translate }}</span>
+    <span class="app-headerbrand">{{ "HEADING" | translate }}</span>
   </div>
   <div class="lang-switcher">
     <button class="button-pt" (click)="switchLang('pt')">
-      <img src="assets/img/brazil_round_icon_64.png" alt="flag-brazil">
-
+      <img src="assets/img/brazil_round_icon_64.png" alt="flag-brazil" />
     </button>
     <button class="button-en" (click)="switchLang('en')">
-      <img src="assets/img/united_states_of_america_round_icon_64.png" alt="flag-usa">
-
+      <img
+        src="assets/img/united_states_of_america_round_icon_64.png"
+        alt="flag-usa"
+      />
     </button>
-
   </div>
 </header>
-
-
